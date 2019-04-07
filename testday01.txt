@@ -1,1 +1,2 @@
-hellow git
+hello git
+ first day
